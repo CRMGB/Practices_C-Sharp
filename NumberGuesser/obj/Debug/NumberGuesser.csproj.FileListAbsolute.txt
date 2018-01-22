@@ -1,0 +1,6 @@
+C:\Users\Cris\Desktop\PROGRAMMING\c# youtube\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\Cris\Desktop\PROGRAMMING\c# youtube\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\Cris\Desktop\PROGRAMMING\c# youtube\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\Cris\Desktop\PROGRAMMING\c# youtube\NumberGuesser\obj\Debug\NumberGuesser.csprojResolveAssemblyReference.cache
+C:\Users\Cris\Desktop\PROGRAMMING\c# youtube\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\Cris\Desktop\PROGRAMMING\c# youtube\NumberGuesser\obj\Debug\NumberGuesser.pdb
